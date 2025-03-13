@@ -12,3 +12,7 @@ MySQL
 Python
 Google Looker 
 
+lets connect 
+linkedin - www.linkedin.com/in/avinash-datir
+email - avinashdatir69@gmail.com
+
