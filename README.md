@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @avinashdatir
-- 👀 I’m interested in data science and analytics field
-- 🌱 I’m currently learning sql, python, AI/ML, DL, and also other data visualization tools like power bi, tableau, and excel 
-- 💞️ I’m looking for opportunity in data science and analytics field 
-- 📫 you can connect me on linkedin - www.linkedin.com/in/avinash-datir
-- 
-- 
+Welcome to my GitHub profile! I'm passionate about leveraging data analytics to empower businesses to make informed decisions and drive growth. With a strong foundation in tools like Excel, PowerBI, SQL, and Python, along with web development skills acquired through WordPress, I aim to combine technical expertise with business acumen to deliver impactful solutions.
 
-<!---
-avinashdatir/avinashdatir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+About Me
+💼 Aspiring Data Analyst
+🌱 Currently pursuing the Google Data Analytics Certification
+🎓 Bachelor's in Computer Application
+
+Tools and Languages
+Excel
+PowerBI
+MySQL
+Python
+Google Looker 
+
